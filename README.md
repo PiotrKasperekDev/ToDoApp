@@ -1,4 +1,4 @@
-# tasklist
+# Task List App with vue.js
 
 ## Project setup
 ```
